@@ -36,7 +36,7 @@
 <td align="center" valign="top">
 
 **Web Fundamentals**
-<br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 </td>
